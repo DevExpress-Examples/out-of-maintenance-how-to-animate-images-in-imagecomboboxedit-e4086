@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomImageComboBoxEditViewInfo.cs](./CS/AnimateImageComboBox/CustomImageComboBoxEditViewInfo.cs) (VB: [CustomImageComboBoxEditViewInfo.vb](./VB/AnimateImageComboBox/CustomImageComboBoxEditViewInfo.vb))
+* [Form1.cs](./CS/AnimateImageComboBox/Form1.cs) (VB: [Form1.vb](./VB/AnimateImageComboBox/Form1.vb))
+* [MyImageComboboxEdit.cs](./CS/AnimateImageComboBox/MyImageComboboxEdit.cs) (VB: [MyImageComboboxEdit.vb](./VB/AnimateImageComboBox/MyImageComboboxEdit.vb))
+* [Program.cs](./CS/AnimateImageComboBox/Program.cs) (VB: [Program.vb](./VB/AnimateImageComboBox/Program.vb))
+* [RepositoryItemMyImageComboBox.cs](./CS/AnimateImageComboBox/RepositoryItemMyImageComboBox.cs) (VB: [RepositoryItemMyImageComboBox.vb](./VB/AnimateImageComboBox/RepositoryItemMyImageComboBox.vb))
+<!-- default file list end -->
 # How to animate images in ImageComboBoxEdit 
 
 
